@@ -66,7 +66,7 @@ const Contact = () => (
           type="submit"
           className="text-white border-2 border-transparent bg-gradient-to-r from-emerald-300 to-sky-400 px-6 py-3 mx-auto flex items-center rounded-xl font-semibold transition hover:brightness-110"
         >
-          Let's Collaborate
+          Let&apos;s Collaborate
         </button>
       </form>
     </div>

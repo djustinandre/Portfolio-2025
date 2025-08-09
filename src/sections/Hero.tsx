@@ -76,7 +76,7 @@ export const HeroSection = () => {
         <div className="max-w-lg mx-auto">
           <header className="animate-fadeUp">
             <h1 className="font-serif text-3xl sm:text-4xl md:text-5xl text-center mt-8 tracking-wide">
-              Hi! I'm Justin,
+              Hi! I&apos;m Justin,
             </h1>
             <h2 className="font-serif text-2xl sm:text-3xl md:text-4xl text-center mt-2 tracking-wide tracking-wide bg-gradient-to-r from-emerald-300 to-sky-400 text-center bg-clip-text text-transparent animate-fadeUp [animation-delay:0.2s]">
               <Typewriter
@@ -111,7 +111,7 @@ export const HeroSection = () => {
             className="inline-flex items-center gap-2 border border-white bg-white text-gray-900 px-6 h-12 rounded-xl focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2 hover:bg-gray-900 hover:text-white transition-all duration-300"
           >
             <span role="img" aria-label="Waving hand">👋</span>
-            <span className="font-semibold">Let's Connect</span>
+            <span className="font-semibold">Let&apos;s Connect</span>
           </a>
         </div>
       </div>
