@@ -10,8 +10,8 @@ const footerLinks = [
     href: "https://github.com/djustinandre",
   },
   {
-    title: "CV",
-    href: "#",
+    title: "Resume",
+    href: "../assets/Justin_DeLeon_Resume.pdf",
   },
 ];
 
