@@ -11,7 +11,7 @@ const footerLinks = [
   },
   {
     title: "Resume",
-    href: "../assets/Justin_DeLeon_Resume.pdf",
+    href: "/JustinDeLeon_Resume.pdf",
   },
 ];
 

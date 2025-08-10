@@ -44,7 +44,7 @@ export const SocialLinks = () => {
         {/* RESUME */}
         <li className="group w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-emerald-500">
           <a
-            href="../assets/Justin_DeLeon_Resume.pdf"
+            href="/JustinDeLeon_Resume.pdf"
             target="_blank"
             rel="noreferrer"
             className="flex justify-between items-center w-full text-gray-300 px-4"
